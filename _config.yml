@@ -17,7 +17,7 @@ baseurl: ""
 title: Ymir Graphics
 
 # Short description of your site
-#description: ""
+description: Better than real-life
 
 # --- Navigation bar options --- #
 
@@ -44,13 +44,13 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#54b881"
+navbar-col: "#3e8a60"
 navbar-text-col: "#dddddd"
 navbar-children-col: "#036804"
 page-col: "#383838"
 link-col: "#219900"
 hover-col: "#1d8900"
-footer-col: "#54b881"
+footer-col: "#3e8a60"
 footer-text-col: "#dddddd"
 footer-link-col: "#bababa"
 
