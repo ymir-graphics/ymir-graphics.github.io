@@ -1,3 +1,8 @@
+---
+layout: page
+title: License and Terms of Use
+---
+
 Copyright (C) 2019 Lee, RRe36<br>
 All Rights Reserved unless otherwise explicitly stated.
  
