@@ -23,6 +23,7 @@ description: Better than real-life
 
 # List of links in the navigation bar, gotta clean this up
 navbar-links:
+  License: "license"
   #Curseforge: "https://www.curseforge.com/members/rre36/projects"
   #Patreon: "https://www.patreon.com/rre36"
   #Projects: 
