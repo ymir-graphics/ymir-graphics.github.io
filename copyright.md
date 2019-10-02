@@ -1,5 +1,3 @@
-# License
-
 Copyright (C) 2019 Lee, RRe36<br>
 All Rights Reserved unless otherwise explicitly stated.
  
