@@ -8,7 +8,7 @@ bigimg:
     - "/img/bg2.jpg"
 ---
 
-#### What is the current deveopment state?
+#### What is the current development state?
 
 At this moment we are still adding new features and ironing out any issues that may occur on the already added features.
 So as you can guess it'll be some time until a public preview version will be made available.
