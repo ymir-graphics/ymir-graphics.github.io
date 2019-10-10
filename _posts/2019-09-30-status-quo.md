@@ -16,3 +16,5 @@ However taking some time to make things properly is always good and will also gi
 For you this means better performance and visuals.
 
 **For more detailed information about the update progress check our discord servers or the shaderlabs server.**
+
+**Shaderlabs Discord Server: https://discord.gg/RpzWN9S**
