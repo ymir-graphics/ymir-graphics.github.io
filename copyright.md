@@ -3,7 +3,7 @@ layout: page
 title: License and Terms of Use
 ---
 
-Copyright (C) 2019 Lee, RRe36<br>
+Copyright (C) 2020 Lee, RRe36, Niemand<br>
 All Rights Reserved unless otherwise explicitly stated.
  
 By downloading this project you agree to the terms and conditions
